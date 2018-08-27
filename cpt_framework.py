@@ -168,3 +168,14 @@ while True:
 		break	
 	else:
 		print "Please choose a number between 1-10"	
+
+
+#creationflags=subprocess.CREATE_NEW_CONSOLE
+
+
+'''
+p = subprocess.Popen(["powershell.exe", 
+              "C:\\Users\\adct\\Desktop\\helloworld.ps1"], 
+              stdout=sys.stdout)
+p.communicate()
+'''
