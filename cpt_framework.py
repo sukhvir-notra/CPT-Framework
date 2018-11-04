@@ -1,3 +1,5 @@
+#! python2
+
 import subprocess, sys
 import os
 import urllib
